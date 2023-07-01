@@ -1,0 +1,13 @@
+.Stories {
+    background-color: #000000;
+    border: 1px solid #262626;
+    border-radius: 20px;
+    height: 150px;
+    margin: 20px 0;
+
+    display: inline-flex;
+
+    width: 468px;
+    overflow: auto;
+}
+
